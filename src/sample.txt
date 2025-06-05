@@ -1,0 +1,37 @@
+The quick brown fox jumps over the lazy dog.
+This is a sample text file for testing grep functionality.
+Programming in C is both challenging and rewarding.
+Hello World! This is a classic first program.
+Error: File not found in directory /usr/local/bin
+Warning: Memory allocation failed at line 42
+DEBUG: Variable x has value 123
+INFO: Process completed successfully
+The weather today is sunny with a temperature of 75°F.
+Apple, banana, cherry, date, elderberry are fruits.
+123-456-7890 is a phone number format.
+user@example.com is an email address.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+UPPERCASE TEXT FOR TESTING CASE SENSITIVITY
+lowercase text for testing case sensitivity
+Mixed CaSe TeXt FoR tEsTiNg
+Line with    multiple    spaces    between    words
+	This line starts with a tab character
+        This line has leading spaces
+Trailing spaces at the end of this line    
+Empty line follows:
+
+This line comes after an empty line.
+Special characters: !@#$%^&*()_+-=[]{}|;:,.<>?/~`
+Numbers: 0123456789
+Repeated word word word for testing
+This line contains the word "error" in lowercase
+This line contains the word "ERROR" in uppercase
+This line contains the word "Error" with mixed case
+/path/to/some/file.txt
+C:\Windows\System32\drivers\etc\hosts
+Pattern matching test: pattern PATTERN Pattern
+Multiple lines with
+continuation text
+spanning several lines
+End of file marker: EOF
